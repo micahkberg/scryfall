@@ -11,6 +11,9 @@ This python notebook will join a .dek file exported from Magic the Gathering Onl
 
 
 notes to self for future development:
+
 -move the basic interpetation of .dek and the scryfall database into its own file to be reference by other projects
+
 -EDHrec auto deck builder
+
 -add additional statistical information to the collection analyzer
